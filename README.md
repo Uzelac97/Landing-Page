@@ -2,11 +2,11 @@
 
 Responsive Landing Page
 
-## Links
+# Links
 
 &#8226; Live Site: https://uzelac97.github.io/Landing-Page/
 
-## Built with
+# Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
